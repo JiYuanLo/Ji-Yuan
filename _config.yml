@@ -1,0 +1,11 @@
+---
+title: LO JI YUAN
+logo: profile_circle.png
+theme: jekyll-theme-minimal
+---
+
+<img src="{{ site.logo }}" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; display: block; margin-left: auto; margin-right: auto;">
+
+
+
+
