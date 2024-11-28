@@ -12,6 +12,8 @@
 
 <!-- Main Content -->
 
+You can see my [CV]() here.
+
 <h3 id="intro" style="color:blue;">Introduction</h3>
 
 Hello! I’m Ji-Yuan(Gino) Lo, a driven and curious individual passionate about **Quantitative Finance** and **Artificial Intellegence**. Currently focused on **Financial Engineering**, **Complex Systems** and **Machine Learning**, I thrive on solving meaningful problems and making an impact. Outside of studying, I love to play basketball and go jogging, which fuels my discipline and resilience. Hopefully, I could be a quant some day!!
