@@ -12,7 +12,7 @@
 
 <!-- Main Content -->
 
-You can see my CV [here] (https://drive.google.com/file/d/1B1nXNbkItNJ2s1OFWrBEjNZ9xoMGGBlB/view?usp=sharing).
+You can see my CV [here](https://drive.google.com/file/d/1B1nXNbkItNJ2s1OFWrBEjNZ9xoMGGBlB/view?usp=sharing).
 
 <h3 id="intro" style="color:blue;">Introduction</h3>
 
