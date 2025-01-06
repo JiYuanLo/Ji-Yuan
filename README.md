@@ -31,12 +31,17 @@ Hello! I’m Ji-Yuan(Gino) Lo, a driven and curious individual passionate about 
 - **Research Assistant** at [Lehigh University, Pennsylvania, USA]()
     - Supervision: Prof. [Hsuan-Wei "Wayne" Lee](https://sites.google.com/view/hsuanweilee/home)
     - Time: 2024 Summer - Current
-    - Research Topic: Examine progression of Non-Communicable Diseases over time through the combination of ABM models and complex systems
+    - Research Topic: Examine progression of Non-Communicable Diseases over time through the combination of ABM models and complex systems.
 
 - **Research Assistant** at [Department of Finance, National Taiwan University](https://management.ntu.edu.tw/Fin)
     - Supervision: Prof. [HSUAN-CHIH LIN](https://sites.google.com/site/hc4lin/)
     - Time: 2024 Aug - Current
     - Research Topic: Use machine learning to analyze diagnostic errors in physician decision-making, identifying over-testing and undertesting patterns in heart attack diagnostics.
+
+- **Research Assistant** at [Financial Engineering Research Lab, NTUST]()
+    - Supervision: Prof. [Daniel Wei-Chung Miao]([https://sites.google.com/view/hsuanweilee/home](https://www.fn.ntust.edu.tw/p/412-1002-10119.php?Lang=en))
+    - Time: 2025 Jan - Current
+    - Research Topic: Analyze variations of jump-diffusion model.
 
 <h3 id="skills" style="color:blue;">Skills</h3>
 
