@@ -39,7 +39,7 @@ Hello! I’m Ji-Yuan(Gino) Lo, a driven and curious individual passionate about 
     - Research Topic: Use machine learning to analyze diagnostic errors in physician decision-making, identifying over-testing and undertesting patterns in heart attack diagnostics.
 
 - **Research Assistant** at [Financial Engineering Research Lab, NTUST]()
-    - Supervision: Prof. [Daniel Wei-Chung Miao]([https://sites.google.com/view/hsuanweilee/home](https://www.fn.ntust.edu.tw/p/412-1002-10119.php?Lang=en))
+    - Supervision: Prof. [Daniel Wei-Chung Miao](https://www.fn.ntust.edu.tw/p/412-1002-10119.php?Lang=en)
     - Time: 2025 Jan - Current
     - Research Topic: Analyze variations of jump-diffusion model.
 
