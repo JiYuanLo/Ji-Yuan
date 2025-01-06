@@ -31,7 +31,7 @@ Hello! I’m Ji-Yuan(Gino) Lo, a driven and curious individual passionate about 
 - **Research Assistant** at [Lehigh University, Pennsylvania, USA]()
     - Supervision: Prof. [Hsuan-Wei "Wayne" Lee](https://sites.google.com/view/hsuanweilee/home)
     - Time: 2024 Summer - Current
-    - Research Topic: : Complex systems, Computational Sociology, Mathematical Epidemiology.
+    - Research Topic: Complex systems, Computational Sociology, Mathematical Epidemiology.
 
 - **Research Assistant** at [Department of Finance, National Taiwan University](https://management.ntu.edu.tw/Fin)
     - Supervision: Prof. [HSUAN-CHIH LIN](https://sites.google.com/site/hc4lin/)
