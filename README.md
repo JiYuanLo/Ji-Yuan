@@ -12,7 +12,7 @@
 
 <!-- Main Content -->
 
-You can see my [CV]() here.
+You can see my CV [here] (https://drive.google.com/file/d/1B1nXNbkItNJ2s1OFWrBEjNZ9xoMGGBlB/view?usp=sharing).
 
 <h3 id="intro" style="color:blue;">Introduction</h3>
 
@@ -62,9 +62,9 @@ Though I am a Finance major student, I do enjoy taking math, CS, and statistics 
 | Algorithms                                                  |
 | Statistics (I)(1)                                           |
 | Introductory Econometrics                                   |
-| Engineering Mathematics-Differential Equation(Ⅰ) (taking)   |
-| Stochastic Process (taking)                                 |
-| Machine Learning (taking)                                   |
+| Engineering Mathematics-Differential Equation               |
+| Stochastic Process                                          |
+| Machine Learning                                            |
 
 
 <h3 id="internship-experience" style="color:blue;">Internship Experience</h3>
