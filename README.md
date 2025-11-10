@@ -70,6 +70,14 @@ Though I am a Finance major student, I do enjoy taking math, CS, and statistics 
 | Engineering Mathematics-Differential Equation               |
 | Stochastic Process                                          |
 | Machine Learning                                            |
+| Financial Computation                                       |
+| Quantitative Methods in Finance                             |
+| Continuous-Time Finance                                     |
+| Introduction to Artificial Intelligence                     |
+| Introduction to Data Science                                |
+| Optimization Methods                                        |
+| Advanced Statistics (I)                                     |
+| Time-Series Analytics                                       |
 
 
 <h3 id="internship-experience" style="color:blue;">Internship Experience</h3>
